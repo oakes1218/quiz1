@@ -1,5 +1,8 @@
 # API LIST
 
+## 本機docker-compose up 即可 api port 8888
+## mysql phpmyadmin prot 8090 (root/password)
+
 #### 新增
 ```
 [POST] /quiz/v1/insert
